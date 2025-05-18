@@ -7,9 +7,9 @@
 
 ---
 
-- 🔭 I’m currently working on [my_investors](https://github.com/Tzeenttch/my_investors)
+- 🔭 I’m currently working on [BikeTrack](https://github.com/Tzeenttch/BikeTrack)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 📫 How to reach me: **adrijj2004@gmail.com**
 
