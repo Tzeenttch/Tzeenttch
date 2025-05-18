@@ -20,7 +20,10 @@
   <a href="https://github.com/Tzeenttch" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <!-- Add more social media or connection links here if needed -->
+
+   <a href="www.linkedin.com/in/adrian-jimenez-jimenez-593926333" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
