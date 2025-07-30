@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">Web development student</h3>
+<h3 align="center">Web developer</h3>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/3e/4c/9d/3e4c9d81ba6be013081a1506dd7fcdec.gif" alt="GIF" width="600"/>
